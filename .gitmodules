@@ -1,3 +1,6 @@
 [submodule "budougumi0617"]
 	path = budougumi0617
 	url = git@github.com:budougumi0617/real-world-http.git
+[submodule "mikan"]
+	path = mikan
+	url = https://github.com/mikan/real-world-http.git
