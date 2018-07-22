@@ -4,6 +4,3 @@
 [submodule "mikan"]
 	path = mikan
 	url = https://github.com/mikan/real-world-http.git
-[submodule "intptr-t"]
-	path = intptr-t
-	url = git@github.com:intptr-t/real-world-http.git
